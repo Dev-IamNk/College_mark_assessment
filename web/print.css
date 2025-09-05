@@ -1,0 +1,11 @@
+@media print {
+    /* Hide non-printable elements */
+    .no-print {
+      display: none;
+    }
+    /* Adjust layout for print */
+    .print-container {
+      width: 100%;
+      margin: 0;
+    }
+  }
