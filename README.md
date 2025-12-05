@@ -19,7 +19,11 @@ One-tap download/share support.
 
 🧰 Tech Stack
 Component	Technology
+
 Frontend	Flutter (Dart)
-Backend	Firebase / XAMPP + PHP (optional)
-Database	Firestore / MySQL
+
+Backend	 XAMPP + PHP 
+
+Database	MySQL
+
 PDF Engine	pdf package
