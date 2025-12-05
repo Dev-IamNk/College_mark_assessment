@@ -1,16 +1,25 @@
-# app2
+The Grade Report Generation App is a Flutter-based mobile application designed to help students and educators easily view academic performance through interactive graphs, detailed score summaries, and auto-generated PDF reports.
+The app focuses on simplicity, visual clarity, and fast report generation.
 
-A new Flutter project.
+ Features
+ Graph-Based Grade Visualization
 
-## Getting Started
+Displays subject-wise scores in beautiful, interactive charts.
 
-This project is a starting point for a Flutter application.
+Supports line charts, bar charts, and percentage breakdowns.
 
-A few resources to get you started if this is your first Flutter project:
+ Automatic PDF Report Generation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Generates clean and professional PDF reports.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Includes student details, subject marks, performance comparison, and overall summary.
+
+One-tap download/share support.
+
+
+🧰 Tech Stack
+Component	Technology
+Frontend	Flutter (Dart)
+Backend	Firebase / XAMPP + PHP (optional)
+Database	Firestore / MySQL
+PDF Engine	pdf package
